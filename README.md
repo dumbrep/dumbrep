@@ -4,10 +4,9 @@
 
 ### AI Engineer · Full-Stack Developer · GenAI Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Gmail](https://img.shields.io/badge/prajwaldumbre@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwaldumbre@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/prajwal-dumbre/?skipRedirect=true))
+[![LeetCode]([https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com](https://leetcode.com/u/Prajwal_dumbre/))
+[![Gmail](prajwaldumbre@gmail.com)
 
 </div>
 
@@ -84,23 +83,23 @@ Emerging Software & AI Engineer with hands-on experience building **scalable ful
 
 ## 🚀 Featured Projects
 
-### 🎯 [JobReadyPro — Placement Preparation Portal](https://github.com)
+### 🎯 JobReadyPro — Placement Preparation Portal
 > AI-powered mock interview platform with real-time emotion detection, resume scoring, and job search
 - **Stack:** ReactJS · NodeJS · FastAPI · MongoDB · Redis · AWS EC2 · Gemini 2.0 Flash · OpenCV
 - JWT auth, distributed session management with Redis, custom domain on AWS EC2
 - Resume scoring + HR feedback via Gemini; job search via JSearch API
 
-### 🏢 [CareerNest — Job Search & Recruitment System](https://github.com)
+### 🏢 CareerNest — Job Search & Recruitment System
 > Full-stack job portal with modern auth and recruiter/applicant flows
 - **Stack:** ReactJS · Spring Boot · MongoDB · Redux · JWT
 - OTP-based password reset, job postings, profile management
 
-### 🌍 [Earthquake Risk Prediction Platform](https://github.com)
+### 🌍 Earthquake Risk Prediction Platform
 > Real-time seismic risk visualization using ML and live USGS data
 - **Stack:** FastAPI · ReactJS · Scikit-learn · USGS API
 - K-Means clustering on 2000–2024 historical data for risk categorization
 
-### 🤖 [FounderFlow — Agentic AI for Startup Automation](https://github.com)
+### 🤖 FounderFlow — Agentic AI for Startup Automation
 > MCP-based agentic platform to automate startup ops via natural language
 - **Stack:** MCP · Multi-agent LLM · Third-party APIs
 - Handles lead gen, recruitment, social media, and email automation end-to-end
@@ -109,18 +108,9 @@ Emerging Software & AI Engineer with hands-on experience building **scalable ful
 
 ## 📜 Certifications
 
-- 🏅 **Generative AI with LangChain and HuggingFace** — Krish Naik *(Oct 2024)*
+- 🏅 [**Generative AI with LangChain and HuggingFace** — Krish Naik *(Oct 2024)*](https://www.udemy.com/certificate/UC-25e59747-9893-4d79-8990-8ea10619dbe6/)
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwaldumbre&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldumbre&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
