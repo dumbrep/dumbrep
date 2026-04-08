@@ -4,9 +4,9 @@
 
 ### AI Engineer · Full-Stack Developer · GenAI Builder
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/prajwal-dumbre/?skipRedirect=true))
-[![LeetCode]([https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com](https://leetcode.com/u/Prajwal_dumbre/))
-[![Gmail](prajwaldumbre@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-dumbre/?skipRedirect=true)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prajwal_dumbre/)
+[![Gmail](https://img.shields.io/badge/prajwaldumbre@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwaldumbre@gmail.com)
 
 </div>
 
@@ -109,8 +109,6 @@ Emerging Software & AI Engineer with hands-on experience building **scalable ful
 ## 📜 Certifications
 
 - 🏅 [**Generative AI with LangChain and HuggingFace** — Krish Naik *(Oct 2024)*](https://www.udemy.com/certificate/UC-25e59747-9893-4d79-8990-8ea10619dbe6/)
-
-
 
 ---
 
